@@ -40,6 +40,9 @@
  {:block/name "hls__rsbws22-01_1666349991208_0",
   :block/created-at 1666607809507,
   :block/updated-at 1666607809507}
+ {:block/name "hls__se1_01_aufgabenblatt_1666620491647_0",
+  :block/created-at 1666620574540,
+  :block/updated-at 1666620574540}
  {:block/name "in-progress",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
@@ -54,7 +57,7 @@
   :block/updated-at 1666607809072}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666606611886,
-  :block/updated-at 1666607900470}
+  :block/updated-at 1666624697731}
  {:block/name "rsb",
   :block/created-at 1666607809118,
   :block/updated-at 1666607809118}
@@ -67,6 +70,9 @@
  {:block/name "uni/vorlesungen",
   :block/created-at 1666607809067,
   :block/updated-at 1666607809067}
+ {:block/name "uni/vorlesungen/ikon",
+  :block/created-at 1666624697725,
+  :block/updated-at 1666624893398}
  {:block/name "uni/vorlesungen/mathe",
   :block/created-at 1666607809064,
   :block/updated-at 1666607809064}
@@ -79,6 +85,9 @@
  {:block/name "uni/übungen/rsb",
   :block/created-at 1666607900464,
   :block/updated-at 1666608316569}
+ {:block/name "uni/übungen/se1",
+  :block/created-at 1666620328904,
+  :block/updated-at 1666620668392}
  {:block/name "wait",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
