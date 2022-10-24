@@ -54,7 +54,7 @@
   :block/updated-at 1666607809072}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666606611886,
-  :block/updated-at 1666606611886}
+  :block/updated-at 1666607900470}
  {:block/name "rsb",
   :block/created-at 1666607809118,
   :block/updated-at 1666607809118}
@@ -73,6 +73,12 @@
  {:block/name "uni/vorlesungen/rsb",
   :block/created-at 1666607809059,
   :block/updated-at 1666607809059}
+ {:block/name "uni/übungen",
+  :block/created-at 1666607900468,
+  :block/updated-at 1666607900468}
+ {:block/name "uni/übungen/rsb",
+  :block/created-at 1666607900464,
+  :block/updated-at 1666608316569}
  {:block/name "wait",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
