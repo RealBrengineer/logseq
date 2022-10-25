@@ -75,7 +75,7 @@
   :block/updated-at 1666607809067}
  {:block/name "uni/vorlesungen/ikon",
   :block/created-at 1666624697725,
-  :block/updated-at 1666630129555}
+  :block/updated-at 1666630763202}
  {:block/name "uni/vorlesungen/mathe",
   :block/created-at 1666607809064,
   :block/updated-at 1666607809064}
@@ -90,7 +90,7 @@
   :block/updated-at 1666608316569}
  {:block/name "uni/übungen/se1",
   :block/created-at 1666620328904,
-  :block/updated-at 1666620668392}
+  :block/updated-at 1666630816443}
  {:block/name "wait",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
