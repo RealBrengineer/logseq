@@ -1,7 +1,4 @@
-[{:block/name "26.10.2022",
-  :block/created-at 1666786113426,
-  :block/updated-at 1666786198341}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
  {:block/name "b",
@@ -49,9 +46,6 @@
  {:block/name "hls__se1_01_aufgabenblatt_1666620491647_0",
   :block/created-at 1666620574540,
   :block/updated-at 1666620574540}
- {:block/name "hls__se1_02_imperative_programmierung_1666786720709_0",
-  :block/created-at 1666790735326,
-  :block/updated-at 1666790735326}
  {:block/name "in-progress",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
@@ -88,9 +82,6 @@
  {:block/name "uni/vorlesungen/rsb",
   :block/created-at 1666607809059,
   :block/updated-at 1666607809059}
- {:block/name "uni/vorlesungen/se1",
-  :block/created-at 1666786198337,
-  :block/updated-at 1666789634794}
  {:block/name "uni/übungen",
   :block/created-at 1666607900468,
   :block/updated-at 1666607900468}

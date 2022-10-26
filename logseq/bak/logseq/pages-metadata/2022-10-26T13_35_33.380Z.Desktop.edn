@@ -1,4 +1,7 @@
-[{:block/name "26.10.2022",
+[{:block/name "25.10.2022",
+  :block/created-at 1666731393825,
+  :block/updated-at 1666731393825}
+ {:block/name "26.10.2022",
   :block/created-at 1666786113426,
   :block/updated-at 1666786198341}
  {:block/name "a",
@@ -50,8 +53,8 @@
   :block/created-at 1666620574540,
   :block/updated-at 1666620574540}
  {:block/name "hls__se1_02_imperative_programmierung_1666786720709_0",
-  :block/created-at 1666790735326,
-  :block/updated-at 1666790735326}
+  :block/created-at 1666789604581,
+  :block/updated-at 1666789604581}
  {:block/name "in-progress",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
@@ -67,9 +70,6 @@
  {:block/name "oct 24th, 2022",
   :block/created-at 1666606611886,
   :block/updated-at 1666624697731}
- {:block/name "rsb",
-  :block/created-at 1666607809118,
-  :block/updated-at 1666607809118}
  {:block/name "todo",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
