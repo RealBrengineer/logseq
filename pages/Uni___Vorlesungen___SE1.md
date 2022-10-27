@@ -1,5 +1,0 @@
-- ![SE1_02_Imperative Programmierung.pdf](../assets/SE1_02_Imperative_Programmierung_1666786720709_0.pdf)
-- ((635930e4-e8a7-41d8-9908-eec628faa3d4))
-	- ((635930f7-b54a-46e0-871b-b3093067804d))
-	- ((63593100-b5b6-49db-b2c8-638faf3e466f))
--

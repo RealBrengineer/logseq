@@ -1,6 +1,0 @@
-- ![SE1_01_Aufgabenblatt.pdf](../assets/SE1_01_Aufgabenblatt_1666620491647_0.pdf)
-- LATER ((63569cb8-29f0-4144-bc48-532cf484219e))
-- DONE ((63569c9e-f291-4beb-99e5-5797758464ee))
-- DONE ((63569cd5-f8dd-4396-9e36-70a6cc506591))
-- DONE ((63569ce4-ba99-43a9-b7c7-3e97bcacc08c))
-- LATER ((63569cf6-8d0f-4ef7-95d0-28097c818252))
