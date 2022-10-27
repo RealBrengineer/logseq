@@ -1,7 +1,4 @@
-[{:block/name "27.10.2022",
-  :block/created-at 1666869016334,
-  :block/updated-at 1666869016334}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
  {:block/name "b",
@@ -19,6 +16,9 @@
  {:block/name "card",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
+ {:block/name "contents",
+  :block/created-at 1666869916918,
+  :block/updated-at 1666869916918}
  {:block/name "doing",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
@@ -28,12 +28,6 @@
  {:block/name "favorites",
   :block/created-at 1666607818774,
   :block/updated-at 1666607818775}
- {:block/name "file",
-  :block/created-at 1666607809502,
-  :block/updated-at 1666607809502}
- {:block/name "file-path",
-  :block/created-at 1666607809504,
-  :block/updated-at 1666607809504}
  {:block/name "in-progress",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
@@ -43,21 +37,27 @@
  {:block/name "now",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
- {:block/name "rsb",
-  :block/created-at 1666607809118,
-  :block/updated-at 1666607809118}
+ {:block/name "oct 27th, 2022",
+  :block/created-at 1666869336518,
+  :block/updated-at 1666870198972}
  {:block/name "todo",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
  {:block/name "uni",
-  :block/created-at 1666607809066,
-  :block/updated-at 1666607809066}
- {:block/name "uni/vorlesungen",
-  :block/created-at 1666607809067,
-  :block/updated-at 1666607809067}
+  :block/created-at 1666869953002,
+  :block/updated-at 1666869953002}
  {:block/name "uni/übungen",
-  :block/created-at 1666607900468,
-  :block/updated-at 1666607900468}
+  :block/created-at 1666869953004,
+  :block/updated-at 1666869953004}
+ {:block/name "uni/übungen/mafi1",
+  :block/created-at 1666869953006,
+  :block/updated-at 1666869953006}
+ {:block/name "uni/übungen/mafi1/27-",
+  :block/created-at 1666869952999,
+  :block/updated-at 1666869952999}
+ {:block/name "uni/übungen/mafi1/27-10-2022",
+  :block/created-at 1666870197955,
+  :block/updated-at 1666870197955}
  {:block/name "wait",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
