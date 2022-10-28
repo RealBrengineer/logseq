@@ -42,7 +42,7 @@
   :block/updated-at 1666870198972}
  {:block/name "oct 28th, 2022",
   :block/created-at 1666953237194,
-  :block/updated-at 1666953237194}
+  :block/updated-at 1666961451880}
  {:block/name "todo",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
@@ -67,6 +67,12 @@
  {:block/name "uni/übungen/mafi1/27-10-2022",
   :block/created-at 1666870197955,
   :block/updated-at 1666870197955}
+ {:block/name "uni/übungen/rsb",
+  :block/created-at 1666961451878,
+  :block/updated-at 1666961451878}
+ {:block/name "uni/übungen/rsb/28-10-2022",
+  :block/created-at 1666961451871,
+  :block/updated-at 1666963087876}
  {:block/name "wait",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}

@@ -1,0 +1,8 @@
+- ![aufgabe-02.pdf](../assets/aufgabe-02_1666961461543_0.pdf)
+- 2.1
+	- (a)
+		- $130W \div 2.96cm^2 = 43.919 \frac {W}{cm^2}$
+		- $1800W \div (\pi \frac {18cm^2}{2}) = 7.074 \frac {W}{cm^2}$
+		- $43.919 \frac {W}{cm^2} > 7.074 \frac {W}{cm^2}$
+	- (b)
+-
