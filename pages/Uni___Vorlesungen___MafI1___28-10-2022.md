@@ -1,0 +1,18 @@
+- ![MafI1-Folien-01.pdf](../assets/MafI1-Folien-01_1666966393731_0.pdf)
+-
+- ((635be616-51f6-4647-ac4f-3c238b948dd8))
+	- Abbildung/Funktion: Ordnet jedes Element aus A einem Element aus B zu. (Wie eine Funktion jedem X Wert einen Y Wert zuordnet)
+- ((635be6ac-42e4-443d-8cc8-25f6ff5b6a13))
+	- ((635be6bb-c9ca-4a5a-9511-3408ef40e253)): alle a aus A haben **verschiedene** b aus B auf die sie zeigen
+	- ((635be6e8-e55a-481e-b01d-01b0c2d2dd94)): alle b aus B haben **mindestens ein** a aus A was auf sie zeigt
+	- ((635be707-e7c9-40b1-a325-1cdce756ff48)): injektiv und surjektiv
+- ((635bebfa-816a-4b7c-81de-b18878c76fd9))
+	- Operation: Ordnet jedes Tupel (mit n Elementen) aus A einem Element aus B zu. (Beispielsweise das Tupel der Elemente einer Addition auf das Ergebnis der Addition)
+-
+- ![MafI1-Folien-02.pdf](../assets/MafI1-Folien-02_1666970769788_0.pdf)
+-
+- ((635bf4d7-2543-4b39-a0c6-ee68eea4e941))
+	- ((635bf52b-9567-4d10-801c-daebb7bb1f93))
+		- A(1) ist wahr
+		- und für jedes n aus N gilt die Implikation A(n) -> A(n+1)
+-
