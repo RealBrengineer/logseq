@@ -40,30 +40,21 @@
  {:block/name "oct 27th, 2022",
   :block/created-at 1666869336518,
   :block/updated-at 1666870198972}
- {:block/name "oct 28th, 2022",
-  :block/created-at 1666953237194,
-  :block/updated-at 1666953237194}
  {:block/name "todo",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
  {:block/name "uni",
   :block/created-at 1666869953002,
   :block/updated-at 1666869953002}
- {:block/name "uni/vorlesungen",
-  :block/created-at 1666953237172,
-  :block/updated-at 1666953237172}
- {:block/name "uni/vorlesungen/rsb",
-  :block/created-at 1666953237185,
-  :block/updated-at 1666953237185}
- {:block/name "uni/vorlesungen/rsb/28-10-2022",
-  :block/created-at 1666953237156,
-  :block/updated-at 1666953237156}
  {:block/name "uni/übungen",
   :block/created-at 1666869953004,
   :block/updated-at 1666869953004}
  {:block/name "uni/übungen/mafi1",
   :block/created-at 1666869953006,
   :block/updated-at 1666869953006}
+ {:block/name "uni/übungen/mafi1/27-",
+  :block/created-at 1666869952999,
+  :block/updated-at 1666869952999}
  {:block/name "uni/übungen/mafi1/27-10-2022",
   :block/created-at 1666870197955,
   :block/updated-at 1666870197955}
