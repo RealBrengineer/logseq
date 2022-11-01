@@ -1,8 +1,43 @@
 - ![aufgabe-02.pdf](../assets/aufgabe-02_1666961461543_0.pdf)
+-
 - 2.1
 	- (a)
-		- $130W \div 2.96cm^2 = 43.919 \frac {W}{cm^2}$
-		- $1800W \div (\pi \frac {18cm^2}{2}) = 7.074 \frac {W}{cm^2}$
-		- $43.919 \frac {W}{cm^2} > 7.074 \frac {W}{cm^2}$
+		- $130W \div 2,96cm^2 = 43,919 \frac {W}{cm^2}$
+		- $1800W \div (\pi \frac {18cm^2}{2}) = 7,074 \frac {W}{cm^2}$
+		- $43,919 \frac {W}{cm^2} > 7,074 \frac {W}{cm^2}$
 	- (b)
+		- $130W \div (4 cores \cdot 6 operations \cdot 2,8 \cdot 10^9 GHz) = 1,935 \cdot 10^{-9} \frac{W}{op}$
+	- (c)
+		- Basis-Takt:
+			- $65W \div 1,58cm^2 = 41,139 \frac{W}{cm^2}$
+			- $65W \div (6 cores \cdot 8 operations \cdot 3 \cdot 10^9 GHz) = 4,514 \cdot 10^{-10} \frac{W}{op}$
+		- Boost-Takt:
+			- $117W \div 1,58cm^2 = 74.051 \frac{W}{cm^2}$
+			- $117W \div (6 cores \cdot 8 operations \cdot 4,6 \cdot 10^9 GHz) = 5,299 \cdot 10^{-10} \frac{W}{op}$
+	- (d)
+		- Die Taktfrequenz "wiegt" bei der Rechnung am schwersten, d.h. wenn diese variiert ist das Ergebnis sehr ungenau.
 -
+- 2.2
+	- Gemeinsamkeiten:
+		- Software kann als "Hardware" dienen (virtuelle Maschinen)
+		- Hardware kann als "Software" dienen (alte, "einzweck" PCs)
+	- Unterschiede:
+		- Software ist veränder-/manipulierbar - Hardware nicht (so einfach)
+-
+- 2.3
+	- (a)
+		- Compiler: "Übersetzt" den ganzen Code eines Programms von einer Sprache in eine andere (maschinennähere) Sprache.
+	- (b)
+		- Interpreter: "Interpretiert" Code einer Sprache, indem es diesen Schritt für Schritt übersetzt und in einer anderen Sprache ausführt.
+	- (c)
+		- Virtuelle Maschine: "Virtualisiert" oder simuliert einen Rechner oder eine Maschine, wobei der Code nicht auf der Hardware sondern auf einer Software-Ebene läuft.
+-
+- 2.4
+	- (a)
+		- $2344040 = 2 \cdot 7^7 + 5 \cdot 7^6 + 6 \cdot 7^5 + 3 \cdot 7^4 + 1 \cdot 7^3 + 6 \cdot 7^2 + 3 \cdot 7^1 + 6 \cdot 7^0$
+		- Online Rechner, nicht nachvollzogen wie es manuell (weder kopfrechnerisch noch schriftlich) funktioniert
+	- (b)
+		- Es ist sehr gut zu implementieren, da es nur 2 mögliche Ziffern hat, d.h. man kann es sehr simple digital darstellen und damit umgehen (0 = aus, 1 = ein).
+	- (c)
+		- Systeme mit einer höheren Zahlenbasis haben eine bessere Speicherdichte, dafür aber eine deutlich erschwerte Weise der Verarbeitung von Informationen.
+		- Systeme mit anderen Zahlenbasis können auch unterschiedlich genau bestimmte Kommazahlen darstellen (Basis 3 z.B.: $\frac{1}{3}, \frac{1}{6}$ etc.), haben also verschiedene Kommazahlungenauigkeiten.

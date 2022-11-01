@@ -46,6 +46,12 @@
  {:block/name "later",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667339062624,
+  :block/updated-at 1667339062624}
+ {:block/name "nov 2nd, 2022",
+  :block/created-at 1667343604344,
+  :block/updated-at 1667343604344}
  {:block/name "now",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
@@ -90,7 +96,7 @@
   :block/updated-at 1666961451878}
  {:block/name "uni/übungen/rsb/28-10-2022",
   :block/created-at 1666961451871,
-  :block/updated-at 1666963087876}
+  :block/updated-at 1667346081811}
  {:block/name "wait",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
