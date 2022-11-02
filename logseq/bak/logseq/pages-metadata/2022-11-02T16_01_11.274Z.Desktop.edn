@@ -80,8 +80,8 @@
   :block/created-at 1666953237185,
   :block/updated-at 1666953237185}
  {:block/name "uni/vorlesungen/rsb/02-11-2022",
-  :block/created-at 1667404272162,
-  :block/updated-at 1667405843293}
+  :block/created-at 1667402415888,
+  :block/updated-at 1667402415888}
  {:block/name "uni/vorlesungen/rsb/28-10-2022",
   :block/created-at 1666953237156,
   :block/updated-at 1666953237156}
@@ -99,8 +99,7 @@
   :block/updated-at 1666961451878}
  {:block/name "uni/übungen/rsb/28-10-2022",
   :block/created-at 1666961451871,
-  :block/updated-at 1667346966681}
-  :block/updated-at 1667407352929}
+  :block/updated-at 1667403294632}
  {:block/name "wait",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}

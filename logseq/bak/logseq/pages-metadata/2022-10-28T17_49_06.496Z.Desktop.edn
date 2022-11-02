@@ -46,12 +46,6 @@
  {:block/name "later",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
- {:block/name "nov 1st, 2022",
-  :block/created-at 1667339062624,
-  :block/updated-at 1667339062624}
- {:block/name "nov 2nd, 2022",
-  :block/created-at 1667343604344,
-  :block/updated-at 1667402415898}
  {:block/name "now",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
@@ -75,13 +69,10 @@
   :block/updated-at 1666966320229}
  {:block/name "uni/vorlesungen/mafi1/28-10-2022",
   :block/created-at 1666966320225,
-  :block/updated-at 1666970934433}
+  :block/updated-at 1666971087654}
  {:block/name "uni/vorlesungen/rsb",
   :block/created-at 1666953237185,
   :block/updated-at 1666953237185}
- {:block/name "uni/vorlesungen/rsb/02-11-2022",
-  :block/created-at 1667404272162,
-  :block/updated-at 1667405843293}
  {:block/name "uni/vorlesungen/rsb/28-10-2022",
   :block/created-at 1666953237156,
   :block/updated-at 1666953237156}
@@ -99,8 +90,7 @@
   :block/updated-at 1666961451878}
  {:block/name "uni/übungen/rsb/28-10-2022",
   :block/created-at 1666961451871,
-  :block/updated-at 1667346966681}
-  :block/updated-at 1667407352929}
+  :block/updated-at 1666963087876}
  {:block/name "wait",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
