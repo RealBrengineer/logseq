@@ -51,10 +51,10 @@
   :block/updated-at 1667339062624}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667343604344,
-  :block/updated-at 1667425892372}
+  :block/updated-at 1667402415898}
  {:block/name "nov 3rd, 2022",
-  :block/created-at 1667430003830,
-  :block/updated-at 1667430003830}
+  :block/created-at 1667478837437,
+  :block/updated-at 1667479476832}
  {:block/name "now",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
@@ -83,8 +83,8 @@
   :block/created-at 1666953237185,
   :block/updated-at 1666953237185}
  {:block/name "uni/vorlesungen/rsb/02-11-2022",
-  :block/created-at 1667424994069,
-  :block/updated-at 1667424994069}
+  :block/created-at 1667404272162,
+  :block/updated-at 1667405843293}
  {:block/name "uni/vorlesungen/rsb/28-10-2022",
   :block/created-at 1666953237156,
   :block/updated-at 1666953237156}
@@ -94,12 +94,9 @@
  {:block/name "uni/übungen/mafi1",
   :block/created-at 1666869953006,
   :block/updated-at 1666869953006}
- {:block/name "uni/übungen/mafi1/02-11-2022",
-  :block/created-at 1667425892368,
-  :block/updated-at 1667432497094}
  {:block/name "uni/übungen/mafi1/03-11-2022",
   :block/created-at 1667479476828,
-  :block/updated-at 1667482402695}
+  :block/updated-at 1667479578809}
  {:block/name "uni/übungen/mafi1/27-10-2022",
   :block/created-at 1666870197955,
   :block/updated-at 1666870197955}

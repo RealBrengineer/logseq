@@ -1,0 +1,27 @@
+- ![Blatt3.pdf](../assets/Blatt3_1667479484699_0.pdf)
+-
+- 1.
+	- (a)
+		- links:
+			- Keine Funktion
+		- rechts:
+			- Keine Funktion
+	- (b)
+		- links:
+			- 2 muss abgebildet werden
+		- rechts:
+			- 2 darf nur einmal abbilden
+	- (c)
+		- links:
+			- Surjektiv nicht möglich, da B größer A
+		- rechts:
+			- Surjektiv nicht möglich, da B größer A
+	- (d)
+		- injektiv:
+			- $g(4) \in B \setminus \{a,b,d,f\}$
+		- nicht injektiv:
+			- $g(4) \in B \setminus \{c,e\}$
+-
+- 2.
+	- (a)
+		-
