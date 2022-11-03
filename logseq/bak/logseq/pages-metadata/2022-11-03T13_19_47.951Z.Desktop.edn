@@ -96,7 +96,7 @@
   :block/updated-at 1666869953006}
  {:block/name "uni/übungen/mafi1/03-11-2022",
   :block/created-at 1667479476828,
-  :block/updated-at 1667482402695}
+  :block/updated-at 1667479578809}
  {:block/name "uni/übungen/mafi1/27-10-2022",
   :block/created-at 1666870197955,
   :block/updated-at 1666870197955}
@@ -105,6 +105,7 @@
   :block/updated-at 1666961451878}
  {:block/name "uni/übungen/rsb/28-10-2022",
   :block/created-at 1666961451871,
+  :block/updated-at 1667346966681}
   :block/updated-at 1667407352929}
  {:block/name "wait",
   :block/created-at 1666607818775,
