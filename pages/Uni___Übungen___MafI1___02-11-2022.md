@@ -1,0 +1,24 @@
+- ![Blatt2.pdf](../assets/Blatt2_1667429404437_0.pdf)
+-
+- 2.
+	- (a)
+		- Behauptung:
+			- Wenn $b^2$ durch $3$ teilbar ist, dann ist auch $b$ selbst durch $3$ teilbar.
+		- Beweis:
+			- $b^2 = 3k$   $k \in N$
+			- 1. Fall   $b = 3a ~\rightarrow~ b^2 = 9a^2$
+			- 2. Fall   $b = 3a + 1 ~\rightarrow~ b^2 = 9a^2 + 6a + 1$   widerspruch, da $b^2 \neq 3k$
+			- 3. Fall   $b = 3a + 2 ~\rightarrow~ 9a^2 + 12a + 4$   widerspruch, da $b^2 \neq 3k$ teilbar
+	- (b)
+		- Behauptung:
+			- $\sqrt{3}$ ist irrational
+		- Beweis:
+			- $\sqrt{3} = \frac{p}{q}$ wobei p und q teilerfremde ganze Zahlen sind
+			- $(\frac{p}{q})^2=3$
+			- $3q^2 = p^2 ~~\rightarrow~~ 3q^2$  ist durch $3$ teilbar, somit auch $p^2$
+			- $p$ mit $3r$ ersetzen  $\rightarrow$  $3q^2 = (3r)^2 = 9r^2$
+			- obiges durch 3 teilen  $\rightarrow$  $q^2 = 3r^2$
+			- Anwendung der Argumentation aus Zeile 3 $\rightarrow$ widerspruch zur Teilerfremdheit
+-
+- 3.
+	- $(A \times \{0\}) \cap (B \times \{1\}) = \{\}$
