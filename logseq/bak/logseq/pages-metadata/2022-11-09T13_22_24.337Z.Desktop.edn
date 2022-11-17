@@ -58,9 +58,6 @@
  {:block/name "nov 4th, 2022",
   :block/created-at 1667560802688,
   :block/updated-at 1667575032149}
- {:block/name "nov 9th, 2022",
-  :block/created-at 1667992387057,
-  :block/updated-at 1667999880492}
  {:block/name "now",
   :block/created-at 1666607818775,
   :block/updated-at 1666607818775}
@@ -105,7 +102,7 @@
   :block/updated-at 1666869953006}
  {:block/name "uni/übungen/mafi1/03-11-2022",
   :block/created-at 1667479476828,
-  :block/updated-at 1667992413044}
+  :block/updated-at 1667573984733}
  {:block/name "uni/übungen/mafi1/04-11-2022",
   :block/created-at 1667575032142,
   :block/updated-at 1667575080111}
