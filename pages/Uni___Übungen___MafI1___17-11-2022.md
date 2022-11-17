@@ -1,3 +1,23 @@
 - ![Blatt4.pdf](../assets/Blatt4_1668676435726_0.pdf)
 -
+- 3]
+	- Für welche natürlichen Zahlen $n$ gilt die Ungleichung $n^2 < 2^n$ ?
+		- $1^2 < 2^1$
+		- $2^2 \nless 2^2$
+		- $3^2 \nless 2^3$
+		- $4^2 \nless 2^4$
+		- $5^2 < 2^5$
+			- Vermutung:
+				- $n^2 < 2^n$ gilt für $n \in \N > 4$
+			- Induktion:
+				- $(IA)$
+					- $n = 5  ~~~~~~~ 5^2 = 25 < 32 = 2^5$
+				- $(IS)~~~~~~~$ wenn $A(n)$ für ein $n$ gilt, dann gilt auch $A(n+1)$
+					- $(n+1)^2 = n^2 + 2n + 1$
+					- $\Leftrightarrow n^2 + 2n + 1 < 2^n + 2n + 1$
 -
+-
+- ![Blatt5.pdf](../assets/Blatt5_1668691615410_0.pdf)
+-
+- $$\frac{a}{2}= \in \Z \Rightarrow a = 2k \Rightarrow 2k\cdot b = 2kb$$
+- $$Sei~~a,b \in \Z~~ungerade,~~dann~~gibt~~es~~k,h \in \Z,~~sodass~~a = 2k+1~~und~~b=2k+1~~und~~ab=(2k+1)(2h+1)=4kh+2k+2h+1=2(2kh+k+h)+1$$
